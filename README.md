@@ -1,7 +1,7 @@
 Sheridan Course App Prototype
 
 Figma Design
-https://www.figma.com/file/2yMVG5pmdm8duv5CtTBiw1/Assignment-2-HCI?type=design&node-id=0%3A1&mode=design&t=qUVZxIphHkJL2LTe-1
+https://www.figma.com/file/QPu6jDAjyRxGVmxXUaGj7O/HCI-Assignment-3?type=design&node-id=0%3A1&mode=design&t=DA19lL3jo3FXYA1h-1
 
 **5 new desirable functionlities**
 
